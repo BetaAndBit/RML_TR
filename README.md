@@ -2,7 +2,7 @@
 
 ## The Hitchhiker’s Guide to Responsible Machine Learning - Turkish Edition
 
-Tahmin modellerini sorumlu bir yaklaşımla nasıl kurabiliriz?} Bu, farklı deneyim seviyelerindeki veri bilimciler tarafından bana sıklıkla sorulan bir sorudur. Görünüşte basit ama aynı zamanda zorlayıcı, çünkü ele alınması gereken farklı paydaşlara ait birkaç ortogonal konu ve bakış açısı var.
+Tahmin modellerini sorumlu bir yaklaşımla nasıl kurabiliriz? Bu, farklı deneyim seviyelerindeki veri bilimciler tarafından bana sıklıkla sorulan bir sorudur. Görünüşte basit ama aynı zamanda zorlayıcı, çünkü ele alınması gereken farklı paydaşlara ait birkaç ortogonal konu ve bakış açısı var.
 
 Model geliştiriciler, model eğitiminin otomasyonuna, performansının izlenmesine, hata ayıklamaya ve MLOps ile ilgili diğer konulara odaklanır. Tahmin modelleri kullanıcıları açıklanabilirlik, şeffaflık ve güvenlikle daha fazla ilgilenirken, adalet, önyargı, etik ise çoğunlukla toplumu ilgilendiren konulardır. Düzenleyiciler, özellikle büyük ölçekli etkileri olan model kullanımlarının sonuçları ile ilgilenmektedir.
 
